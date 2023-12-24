@@ -15,4 +15,5 @@ Fast forward to now I guess I made my case that I am into you (sorry for annoyin
 I understand that love or having a significant other is not the first thing on the top of your mind. V, I'll always be here waiting for you until the stars align for the both of us while always doing my best to remain consistent with my actions towards you, even if it's only snagging a minute of your time. I'll always be here for you, cheering on every milestone you accomplish with grace and someone you can open up to on anything if things don't go your way. I'll do what I can to learn how to love every single triat of you with all my pure intentions. And don't worry about me, I've got my future straight, hopefully, with you by my side. I gotchu always, V!
 
 All my love, 
+
 Paopao
