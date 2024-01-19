@@ -1,4 +1,4 @@
-![BMM](logo.png)
+[![](logo.png)](https://forms.google.com)
 
 Hello reader!
 
@@ -21,3 +21,5 @@ Here are the important dates for this year's BMM!
 **February 14, 2024** - Registration ends.
 
 **February 16-18, 2024** - 2024 BMM!
+
+## Interested participants and coaches can register by clicking the logo above in this website. Check out as well the full contest mechanics at [https://drive.google.com](https://drive.google.com) !
