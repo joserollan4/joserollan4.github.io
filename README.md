@@ -17,5 +17,7 @@ The **BMM** is a mathematics competition, for elementary and high school math en
 Here are the important dates for this year's BMM!
 
 **February 1, 2024** - Registration opens!
+
 **February 14, 2024** - Registration ends.
+
 **February 16-18, 2024** - 2024 BMM!
