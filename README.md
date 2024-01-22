@@ -14,7 +14,7 @@ The **BMM** is a mathematics competition, for elementary and high school math en
 4. Cater various social interactions through problem solving discussions and reflections.
 5. Provide resources for math enthusiasts for various local and international competitions.
 
-#Important Notes
+# Important Notes
 
 ## Schedule
 
