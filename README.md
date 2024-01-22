@@ -8,7 +8,7 @@ Introducing, the **Bogohanon Master in Mathematics**!
 
 The **BMM** is a mathematics competition, for elementary and high school math enthusiasts. Although only students studying in the City of Bogo are eligible for prizes, the competition is open to the general public! The aim of the BMM is to
 
-1. Organize a fun and accessible mathematics competition for elementary high school students in the City of Bogo.
+1. Organize a fun and accessible mathematics competition for elementary and high school students in the City of Bogo.
 2. Enhance mathematics education through creative problem solving.
 3. Expose talented math enthusiasts in the City of Bogo to mathematics being taught outside the classroom.
 4. Cater various social interactions through problem solving discussions and reflections.
