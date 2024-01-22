@@ -26,7 +26,7 @@ The **BMM** is a mathematics competition, for elementary and high school math en
 
 ## Registration
 
-**Link** - [https://forms.google.com](https://forms.google.com)
+**Link** - link available soon
 
 ## Contact
 **Email** - [joserollan4@gmail.com](mailto:[joserollan4@gmail.com])
