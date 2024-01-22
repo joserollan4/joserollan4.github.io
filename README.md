@@ -33,3 +33,21 @@ The **BMM** is a mathematics competition, for elementary and high school math en
 
 **Messenger Group Chat** - link available soon
 
+## Prizes (for Bogohanon students only)
+**Elementary**
+
+1st - 3rd place: 100 pesos + medal
+
+4th - 6th place: medal
+
+**High School (Grades 7-9)**
+
+1st - 3rd place: 100 pesos + medal
+
+4th - 6th place: medal
+
+**High School (Grades 10-12)**
+
+1st - 3rd place: 100 pesos + medal
+
+4th - 6th place: medal
