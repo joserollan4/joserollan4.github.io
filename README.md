@@ -1,4 +1,4 @@
-[![](logo.png)](https://forms.google.com)
+[![](logo.png)](https://joserollan4.github.io)
 
 Hello reader!
 
@@ -14,7 +14,9 @@ The **BMM** is a mathematics competition, for elementary and high school math en
 4. Cater various social interactions through problem solving discussions and reflections.
 5. Provide resources for math enthusiasts for various local and international competitions.
 
-Here are the important dates for this year's BMM!
+#Important Notes
+
+## Schedule
 
 **February 1, 2024** - Registration opens!
 
@@ -22,4 +24,12 @@ Here are the important dates for this year's BMM!
 
 **February 16-18, 2024** - 2024 BMM!
 
-## Interested participants and coaches can register by clicking the logo above in this website. Check out as well the full contest mechanics at [https://drive.google.com](https://drive.google.com) !
+## Registration
+
+**Link** - [https://forms.google.com](https://forms.google.com)
+
+## Contact
+**Email** - [joserollan4@gmail.com](mailto:[joserollan4@gmail.com])
+
+**Messenger Group Chat** - link available soon
+
