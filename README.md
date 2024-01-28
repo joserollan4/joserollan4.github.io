@@ -28,6 +28,10 @@ The **BMM** is a mathematics competition, for elementary and high school math en
 
 **Link** - link available soon
 
+## Mechanics
+
+**Link** - [https://drive.google.com/file/d/1-qOZaL3t6OV0WnY1b73E3vgFsdJI-OGF/view?usp=drive_link](https://drive.google.com/file/d/1-qOZaL3t6OV0WnY1b73E3vgFsdJI-OGF/view?usp=drive_link)
+
 ## Contact
 **Email** - [joserollan4@gmail.com](mailto:[joserollan4@gmail.com])
 
