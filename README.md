@@ -1,7 +1,7 @@
 # ngano_upat_na Random Open Contest
 An Open Math Internet Contest Series
 
-**Contest 1 Submission Period: April 8 (00:00) - April 15 (23:59)**
+**Contest 1 Submission Period: April 7 (22:00) - April 15 (23:59)**
 
 ## Rules
 1. 10 problems good for a 1-week contest window. Each problem is worth one point.
@@ -11,6 +11,7 @@ An Open Math Internet Contest Series
 5. Have fun!
 
 ## Problems
+https://drive.google.com/file/d/1M50WFxkREiiqUNpzV416JFHLQ2TcXlyT/view?usp=sharing
 
 ## Submission Form
 https://forms.gle/ua2SDABD5VZ3RAgr9
