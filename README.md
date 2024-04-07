@@ -13,7 +13,9 @@ An Open Math Internet Contest Series
 ## Problems
 
 ## Submission Form
+https://forms.gle/ua2SDABD5VZ3RAgr9
 
 ## Clarification Form
+https://forms.gle/DycKGh67axvK867d8
 
 ## Leaderboard
