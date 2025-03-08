@@ -1,39 +1,39 @@
 # Game 1
-Paulette
-Mariolito
-Paolo
+Paulette;
+Mariolito;
+Paolo;
 Charles
 
 # Game 2
-Genevieve
-Ashley 
-Nicole 
-Paulette
-Mariolito
+Genevieve;
+Ashley;
+Nicole;
+Paulette;
+Mariolito;
 
 # Game 3
-Tony
-Isprikitik
-Rian
-Ryan
-Nicole
+Tony;
+Isprikitik;
+Kian;
+Ryan;
+Nicole;
 Genevieve
 
 # Game 4
-Danyel
-Yuan
-JP
-Ella
-Mykha
-Leido
-Drei
-RJ
+Danyel;
+Yuan;
+JP;
+Ella;
+Mykha;
+Leido;
+Drei;
+RJ;
 Miho
 
 # Game 5
-Kyla
-JM
-Leido
-Charles
+Kyla;
+Leido;
+Charles;
+JM;
 Danyel
 
